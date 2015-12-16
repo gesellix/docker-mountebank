@@ -1,7 +1,7 @@
 # docker-mountebank
 Mountebank docker image
 
-[![Circle CI](https://circleci.com/gh/findmypast/docker-mountebank.svg?style=svg)](https://circleci.com/gh/findmypast/docker-mountebank)
+[![Circle CI](https://circleci.com/gh/findmypast/docker-mountebank.svg?style=shield)](https://circleci.com/gh/findmypast/docker-mountebank)
 
 #### usage
 
