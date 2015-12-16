@@ -19,4 +19,4 @@ deployment:
       - docker login -e $DOCKER_EMAIL -u $DOCKER_USER -p $DOCKER_PASS
       - docker tag mountebank:latest bapti/mountebank:$VERSION_NUM.$CIRCLE_BUILD_NUM
       - docker tag mountebank:latest bapti/mountebank:latest
-      - docker push bapti/mountebank:$VERSION_NUM.$CIRCLE_BUILD_NUM
+      - docker push bapti/mountebank
