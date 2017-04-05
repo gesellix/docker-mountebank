@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:6.10-alpine
 
 RUN npm install -g mountebank --production
 
